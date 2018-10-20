@@ -1,11 +1,11 @@
-Tidy data set description
-The variables in the tidy data
-Tidy data contains 180 rows and 68 columns. Each row has averaged variables for each subject and each activity.
+# Sectidyset description
+## The variables in te Sectidyset
+Dataset contains 180 rows and 68 columns. Each row has averaged variables for each subject and each activity.
 
-Only all the variables estimated from mean and standard deviation in the tidy set were kept.
+## Only all the variables estimated from mean and standard deviation in the tidy set were kept.
 mean(): Mean value
 std(): Standard deviation
-The data were averaged based on subject and activity group.
+## The data were averaged based on subject and activity group.
 Subject column is numbered sequentially from 1 to 30. Activity column has 6 types as listed below.
 
 ## WALKING
@@ -15,7 +15,7 @@ Subject column is numbered sequentially from 1 to 30. Activity column has 6 type
 ## STANDING
 ## LAYING
 The tidy data contains 6 rows (averaged based on activity) and 68 columns (66 variables and activity labels).
-##### "activitylabel"
+"activitylabel"
 "subject"
 "tBodyAcc-mean()-X"
 "tBodyAcc-mean()-Y"
