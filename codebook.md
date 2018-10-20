@@ -8,14 +8,14 @@ std(): Standard deviation
 The data were averaged based on subject and activity group.
 Subject column is numbered sequentially from 1 to 30. Activity column has 6 types as listed below.
 
-##WALKING
-##WALKING_UPSTAIRS
-##WALKING_DOWNSTAIRS
-##SITTING
-##STANDING
-##LAYING
+## WALKING
+## WALKING_UPSTAIRS
+## WALKING_DOWNSTAIRS
+## SITTING
+## STANDING
+## LAYING
 The tidy data contains 6 rows (averaged based on activity) and 68 columns (66 variables and activity labels).
-"activitylabel"
+##### "activitylabel"
 "subject"
 "tBodyAcc-mean()-X"
 "tBodyAcc-mean()-Y"
